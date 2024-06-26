@@ -1,3 +1,4 @@
 first line from cloud
 2nd line from local
-3rd line from cloud [addition from cloud]
+3rd line from cloud [addition from cloud and local]
+
